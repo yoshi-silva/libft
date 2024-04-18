@@ -1,2 +1,2 @@
 # libft
-libft project for 42
+libft project for 42 school
